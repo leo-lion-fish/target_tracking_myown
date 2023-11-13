@@ -30,84 +30,84 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\chi2inv.h">
+    <ClInclude Include="chi2inv.h">
       <Filter>头文件\chi2inv</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\xyraconv.h">
+    <ClInclude Include="xyraconv.h">
       <Filter>头文件\conv</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\xyraconv2.h">
+    <ClInclude Include="xyraconv2.h">
       <Filter>头文件\conv</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\xyraconv3.h">
+    <ClInclude Include="xyraconv3.h">
       <Filter>头文件\conv</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\xyraconv4.h">
+    <ClInclude Include="xyraconv4.h">
       <Filter>头文件\conv</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\xyraconvert.h">
+    <ClInclude Include="xyraconvert.h">
       <Filter>头文件\conv</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\calcdis.h">
+    <ClInclude Include="calcdis.h">
       <Filter>头文件\ipda</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\IPDA.h">
+    <ClInclude Include="IPDA.h">
       <Filter>头文件\ipda</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\likelihood.h">
+    <ClInclude Include="likelihood.h">
       <Filter>头文件\ipda</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\Sen.h">
+    <ClInclude Include="randseed.h">
+      <Filter>头文件\randseed</Filter>
+    </ClInclude>
+    <ClInclude Include="randseed2.h">
+      <Filter>头文件\randseed</Filter>
+    </ClInclude>
+    <ClInclude Include="randseed3.h">
+      <Filter>头文件\randseed</Filter>
+    </ClInclude>
+    <ClInclude Include="Sen.h">
       <Filter>头文件\sen</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\senpara.h">
+    <ClInclude Include="senpara.h">
       <Filter>头文件\sen</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\randseed.h">
-      <Filter>头文件\randseed</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\randseed2.h">
-      <Filter>头文件\randseed</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\randseed3.h">
-      <Filter>头文件\randseed</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\EKF.h">
+    <ClInclude Include="EKF.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\GenTar.h">
+    <ClInclude Include="GenTar.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\initpara.h">
+    <ClInclude Include="initpara.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\model.h">
+    <ClInclude Include="model.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Multi-Target-Tracking\ass2\runs.h">
+    <ClInclude Include="runs.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Multi-Target-Tracking\ass2\EKF.cpp">
+    <ClCompile Include="EKF.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Multi-Target-Tracking\ass2\GenTar.cpp">
+    <ClCompile Include="GenTar.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Multi-Target-Tracking\ass2\IPDA.cpp">
+    <ClCompile Include="IPDA.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Multi-Target-Tracking\ass2\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Multi-Target-Tracking\ass2\model.cpp">
+    <ClCompile Include="model.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Multi-Target-Tracking\ass2\runs.cpp">
+    <ClCompile Include="runs.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Multi-Target-Tracking\ass2\Sen.cpp">
+    <ClCompile Include="Sen.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
